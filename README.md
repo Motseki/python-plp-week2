@@ -1,1 +1,1 @@
-PLP pyhton assignment
+PLP week-2 python assignment
